@@ -1,7 +1,6 @@
 # Best-Name-Generators
 Free AI Name Generation with Meanings
 # Welcome to [Best Name Generators](https://www.bestnamegenerators.com/)
-https://ibb.co/LDY39v7g
 Are you searching for the perfect name for your new project, business, brand, or even a fictional character? [Best Name Generators](https://www.bestnamegenerators.com/) is a powerful and easy-to-use online tool dedicated to providing you with an endless stream of creative naming ideas.
 
 Our goal is to simplify the naming process, allowing you to focus on what truly matters. Whatever type of name you need, we have a specialized generator to meet your requirements.
